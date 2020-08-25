@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background-color: #b7efcd;
+}
+.mainContainer{
+  width:30%;
+  margin: 4% auto;
+  background-color: #595238;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnK2m04FNWuAKGiIschbFHhvXU0SqZeesqtg&usqp=CAU);
+  border-radius: 4%;
+  border-style:solid;
+  /* border-color: #76ead7; */
+}
+
+.subContainer{
+  background: #1d1b38;
+  /* background-image: url(https://media.giphy.com/media/KZRkHRdUCJE79gTX2M/giphy.gif); */
+  color: white;
+  padding: 20px 0 20px 0;
+  /* border-style:solid;
+  border-color: #c4fb6d; */
+    border-style:solid;
+border-color: #76ead7;
+}
